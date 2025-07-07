@@ -1,20 +1,56 @@
-# Zomato Data Analysis Project
+# 📊 Zomato Restaurant Data Analysis Project
 
-## Project Overview
+**Tools Used:** Power BI, Excel, SQL  
+**Domain:** Food Delivery, Business Intelligence
 
-This project is an in-depth analysis of Zomato restaurant data, focusing on key insights such as top cuisines, 
-total restaurants worldwide, total votes, total cuisines, and top-performing cities. The analysis is supported by interactive visualizations created using Power BI.
+---
 
+## 📌 Project Overview
 
-## Visualizations
+This project presents a comprehensive analysis of Zomato’s restaurant dataset to uncover key insights into the food service industry. It focuses on:
 
-Power BI dashboards provide an interactive way to explore restaurant trends, 
-customer preferences, and city-wise performance. These visualizations help in understanding market trends and business opportunities in the restaurant industry.
+- Most popular cuisines globally
+- Top-performing cities based on ratings and restaurant count
+- Total number of restaurants, votes, and cuisines
+- Customer preferences and market patterns
 
+Interactive dashboards were built using **Power BI** to make insights easily understandable for business stakeholders.
 
+---
 
-## Future Improvements
+## 📈 Visualizations
 
-Expanding analysis with advanced statistical methods.
-Incorporating real-time data for dynamic insights.
-Enhancing visualizations with more interactive features
+The Power BI dashboard provides:
+
+- 📍 **City-wise Analysis** – Total votes, average ratings, and number of restaurants  
+- 🍽️ **Cuisine Insights** – Popular cuisines based on ratings and frequency  
+- 🏆 **Top Cities & Restaurants** – High-performing locations in terms of popularity and satisfaction  
+- 📊 **Overall Metrics** – Total votes, cuisines, restaurant counts
+
+These visualizations help identify growth opportunities and trends in the restaurant and delivery industry.
+
+---
+
+## 💡 Future Improvements
+
+- Integrate **real-time API-based data** for dynamic updates  
+- Add **advanced statistical models** (e.g., clustering for cuisine grouping)  
+- Enhance dashboards with **custom tooltips, drill-throughs, and filters**
+
+---
+
+## 🖼️ Dashboard Preview
+
+> ![Zomato Dashboard](PBI%20.png)
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repo  
+2. Open the `.pbix` file in Power BI Desktop  
+3. Interact with filters and visuals for insights
+
+---
+
+📢 **Like this project? Star the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/tanvipatilofficial/)!**
